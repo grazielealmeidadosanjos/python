@@ -1,4 +1,4 @@
-i = 0
+i = 0  #nao precisa declarar i antes
 soma=0
 for i in range (0,11,1):
     soma= soma + 1
